@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cao Quoc Viet</h1>
 <h3 align="center">A frontend, ABAP developer from VietNam</h3>
 
-- 🔭 I’m currently working on [giveback](https://github.com/CaoQuocViet/giveback)
+- 🔭 I’m currently working on [giveback](https://github.com/CaoQuocViet/giveback) and [SmartIELTS](https://github.com/CaoQuocViet/SmartIELTS)
 
 - 🌱 I’m currently learning **ABAP, Next.js**
 
