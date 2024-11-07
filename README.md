@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vietcao10@gmail.com**
 
-- ⚡ Fun fact **I think i am funny. I am the kind of person who embraces learning and tackling anything new with passion and determination. As long as it sparks my interest, I am fearless and unstoppable.**
+- ⚡ Fun fact: **I think i am funny. I am the kind of person who embraces learning and tackling anything new with passion and determination. As long as it sparks my interest, I am fearless and unstoppable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
