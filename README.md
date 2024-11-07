@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **ABAP, Next.js**
 
-- 👯 I’m looking to collaborate on [plane](https://github.com/CaoQuocViet/plane)
+<!-- - 👯 I’m looking to collaborate on [plane](https://github.com/CaoQuocViet/plane)
 
-- 🤝 I’m looking for help with [SmartIELTS](https://github.com/CaoQuocViet/SmartIELTS)
+- 🤝 I’m looking for help with [SmartIELTS](https://github.com/CaoQuocViet/SmartIELTS) -->
 
 - 📫 How to reach me **vietcao10@gmail.com**
 
