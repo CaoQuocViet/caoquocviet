@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [giveback](https://github.com/CaoQuocViet/giveback), [SmartIELTS](https://github.com/CaoQuocViet/SmartIELTS), [abap-rap-flight-booking](https://github.com/CaoQuocViet/abap-rap-flight-booking) and [Testify](https://github.com/CaoQuocViet/Testify)
 
 - 🌱 I’m currently learning **ABAP, Next.js**
+  
+-  🚀 I'm passionate about entrepreneurship in IT applications, commerce, and open to collaborating on innovative startup projects
 
 <!-- - 👯 I’m looking to collaborate on [plane](https://github.com/CaoQuocViet/plane)
 
