@@ -58,3 +58,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1920px-SAP_2011_logo.svg.png?20241103114958" alt="abap" style="width: auto; height: 40px;"/>
   </a>
 </p>
+
+<div align="center">
+=========================================================================================
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaoQuocViet&bg_color=000000&color=fefadc&line=6bc200&point=fff0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
