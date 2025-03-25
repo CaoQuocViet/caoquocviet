@@ -65,7 +65,22 @@
 <br/>
 
 <div align="center">
-=========================================================================================
+======================================================================================
+</div>
+
+<br/>
+<br/>
+
+<h2 align="center">🌟 Project Showcase</h2>
+
+| ![Octocat](https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/img/octocat.png) | ![Showcase GIF](https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/img/gif/showcase.gif) |
+|:---:|:---:|
+
+<br/>
+<br/>
+
+<div align="center">
+======================================================================================
 </div>
 
 <br/>
@@ -86,24 +101,6 @@
 <br/>
 
 <div align="center">
-=========================================================================================
+======================================================================================
 </div>
 
-<br/>
-<br/>
-
-<h2 align="center">🌟 Project Showcase</h2>
-
-<div style="display: flex; width: 100%; height: 300px;">
-
-  <!-- Bên trái: Ảnh PNG -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center; height: 100%;">
-    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/img/octocat.png" alt="Octocat" style="height: 25%; width: 25%; object-fit: contain;">
-  </div>
-
-  <!-- Bên phải: GIF -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center; height: 100%;">
-    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/img/gif/showcase.gif" alt="Showcase GIF" style="height: 60%; width: 60%; object-fit: contain;">
-  </div>
-
-</div>
