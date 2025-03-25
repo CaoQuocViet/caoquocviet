@@ -75,4 +75,19 @@
 </div>
 
 
+<div align="center" style="position: relative; width: 100%; padding-top: 56.25%; /* Tỷ lệ 16:9 */ overflow: hidden; border: 1px solid #ddd;">
+  <div style="display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; gap: 2px;">
+    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/readme/Screenshot%202025-03-02%20202830.png" style="width: 10%; height: 100%; object-fit: cover; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/readme/Screenshot%202025-03-10%20174731.png" style="width: 10%; height: 100%; object-fit: cover; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/readme/Screenshot%202025-03-10%20180700.png" style="width: 10%; height: 100%; object-fit: cover; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/readme/Screenshot%202025-03-10%20214807.png" style="width: 10%; height: 100%; object-fit: cover; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/readme/Screenshot%202025-03-10%20222222.png" style="width: 10%; height: 100%; object-fit: cover; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/readme/Screenshot%202025-03-02%20202830.png" style="width: 10%; height: 100%; object-fit: cover; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/readme/Screenshot%202025-03-10%20174731.png" style="width: 10%; height: 100%; object-fit: cover; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/readme/Screenshot%202025-03-10%20180700.png" style="width: 10%; height: 100%; object-fit: cover; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/readme/Screenshot%202025-03-10%20214807.png" style="width: 10%; height: 100%; object-fit: cover; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+    <img src="https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/readme/Screenshot%202025-03-10%20222222.png" style="width: 10%; height: 100%; object-fit: cover; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)';" onmouseout="this.style.transform='scale(1)';"/>
+  </div>
+</div>
+
 
