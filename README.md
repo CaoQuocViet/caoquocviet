@@ -1,3 +1,5 @@
+![My Image](https://github.com/CaoQuocViet/github_page_img/blob/main/img/gif/header.gif)
+
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi 👋, I'm Cao Quoc Viet &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />  
 </h1>
