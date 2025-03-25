@@ -65,8 +65,14 @@
 =========================================================================================
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaoQuocViet&bg_color=000000&color=fefadc&line=6bc200&point=fff0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaoQuocViet&bg_color=000000&color=fefadc&line=6bc200&point=fff0f0&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaoQuocViet&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoQuocViet&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
 
-![CaoQuocViet's Stats](https://github-readme-stats.vercel.app/api?username=CaoQuocViet&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false)
-![CaoQuocViet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoQuocViet&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
+
