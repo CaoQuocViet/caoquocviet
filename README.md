@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Cao Quoc Viet</h1>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi 👋, I'm Cao Quoc Viet &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />  
+</h1>
 <h3 align="center">A fullstack, ABAP developer from Vietnam</h3>
 
 - 🔭 I’m currently working on [giveback](https://github.com/CaoQuocViet/giveback), [SmartIELTS](https://github.com/CaoQuocViet/SmartIELTS), [abap-rap-flight-booking](https://github.com/CaoQuocViet/abap-rap-flight-booking) and [Testify](https://github.com/CaoQuocViet/Testify)
