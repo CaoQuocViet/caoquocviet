@@ -70,24 +70,6 @@
 ======================================================================================
 </div>
 
-<br/>
-<br/>
-
-<h2 align="center">🌟 Project Showcase</h2>
-
-| ![Octocat](https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/img/octocat.png) | ![Showcase GIF](https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/img/gif/showcase.gif) [Open Resource](https://caoquocviet.github.io/github_page_img/) |
-|:---:|:---:|
-
-<br/>
-<br/>
-
-<div align="center">
-======================================================================================
-</div>
-
-<br/>
-<br/>
-
 <h2 align="center">📊 GitHub Activity Graph</h2>
 
 <div align="center">
@@ -105,4 +87,19 @@
 <div align="center">
 ======================================================================================
 </div>
+
+<h2 align="center">🌟 Project Showcase</h2>
+
+| ![Octocat](https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/img/octocat.png) | ![Showcase GIF](https://raw.githubusercontent.com/CaoQuocViet/github_page_img/main/img/gif/showcase.gif) [Open Resource](https://caoquocviet.github.io/github_page_img/) |
+|:---:|:---:|
+
+<br/>
+<br/>
+
+<div align="center">
+======================================================================================
+</div>
+
+<br/>
+<br/>
 
