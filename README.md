@@ -2,8 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CaoQuocViet&style=flat-square)
 
+<!-- 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp; Hi 👋, I'm Viet&nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />  
+</h1>
+-->
+
+<h1 align="center">
+  Hi 👋, I'm Viet&nbsp;
 </h1>
 <h3 align="center">fullstack developer from Vietnam</h3>
 
@@ -17,7 +23,7 @@
 
 - 🤝 I’m looking for help with [SmartIELTS](https://github.com/CaoQuocViet/SmartIELTS) -->
 
-- 📫 How to reach me **vietcao10@gmail.com**
+- 📫 How to reach me: **vietcao10@gmail.com**
 
 - ⚡ Fun fact: **I think i am funny. I am the kind of person who embraces learning and tackling anything new with passion and determination. As long as it sparks my interest, I am fearless and unstoppable.**
 
