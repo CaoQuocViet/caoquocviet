@@ -81,7 +81,7 @@
 <h2 align="center">📊 GitHub Activity Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaoQuocViet&bg_color=000000&color=fefadc&line=6bc200&point=fff0f0&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caoquocviet&bg_color=000000&color=4c839e&line=f00000&point=009fc7&area=true&hide_border=true" />
 </div>
 
 <div align="center">
