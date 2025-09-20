@@ -13,7 +13,7 @@
 </h1>
 <h3 align="center">fullstack developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [giveback](https://github.com/CaoQuocViet/giveback), [ByteBridge](https://github.com/CaoQuocViet/ByteBridge), [abap-rap-flight-booking](https://github.com/CaoQuocViet/abap-rap-flight-booking) and [StormPC](https://github.com/CaoQuocViet/StormPC)
+- 🔭 I’m currently working on [my portfolio](https://github.com/CaoQuocViet/portfolio-vietcq), [ByteBridge](https://github.com/CaoQuocViet/ByteBridge) and [Testing hub](https://github.com/CaoQuocViet/thitho)
 
 <!--- 🌱 I’m currently learning **ABAP, Next.js** -->
   
