@@ -13,8 +13,12 @@
 </h1>
 <h3 align="center">fullstack developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://portfolio-vietcq.vercel.app/), [ByteBridge](https://testify.io.vn/), [Artemis Studio](https://github.com/CaoQuocViet/artemis-studio) and [Testing hub](https://github.com/CaoQuocViet/thitho)
-
+- 🔭 I’m currently working on [my portfolio](https://portfolio-vietcq.vercel.app/) and [ByteBridge](https://testify.io.vn/).
+- 🔜 **Coming Soon:**
+  - **Artemis Studio** (Late 2025)
+  - **Testing hub** (Early 2026)
+  - **Sportis** (Late 2026)
+  
 <!--- 🌱 I’m currently learning **ABAP, Next.js** -->
   
 -  🚀 I'm passionate about entrepreneurship in IT applications, commerce, and open to collaborating on innovative startup projects
