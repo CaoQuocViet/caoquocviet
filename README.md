@@ -16,8 +16,8 @@
 - 🔭 I’m currently working on [my portfolio](https://portfolio-vietcq.vercel.app/) and [ByteBridge](https://testify.io.vn/).
 - 🔜 **Coming Soon:**
   - **Artemis Studio** (Late 2025)
-  - **Testing hub** (Early 2026)
-  - **Sportis** (Late 2026)
+  - [**Sportis**](https://caoquocviet.github.io/sportis-landing/) (Late 2026)
+  - **Testing hub** (Late 2027)
   
 <!--- 🌱 I’m currently learning **ABAP, Next.js** -->
   
