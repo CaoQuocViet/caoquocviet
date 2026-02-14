@@ -92,8 +92,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-pi-ten-14.vercel.app/api?username=CaoQuocViet&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false" />
-  <img src="https://github-readme-stats-pi-ten-14.vercel.app/api/top-langs/?username=CaoQuocViet&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-pi-ten-14.vercel.app/api?username=CaoQuocViet&theme=react&show_icons=true&hide_border=true&count_private=false" />
+  <img src="https://github-readme-stats-pi-ten-14.vercel.app/api/top-langs/?username=CaoQuocViet&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <br/>
