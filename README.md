@@ -88,12 +88,12 @@
 <h2 align="center">📊 GitHub Activity Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caoquocviet&bg_color=000000&color=4c839e&line=f00000&point=009fc7&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caoquocviet&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-pi-ten-14.vercel.app/api?username=CaoQuocViet&theme=react&show_icons=true&hide_border=true&count_private=false" />
-  <img src="https://github-readme-stats-pi-ten-14.vercel.app/api/top-langs/?username=CaoQuocViet&theme=react&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-pi-ten-14.vercel.app/api?username=CaoQuocViet&theme=github_dark&show_icons=true&hide_border=true&count_private=false" />
+  <img src="https://github-readme-stats-pi-ten-14.vercel.app/api/top-langs/?username=CaoQuocViet&theme=github_dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <br/>
