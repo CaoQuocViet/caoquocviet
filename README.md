@@ -29,27 +29,42 @@ mission:     Ship meaningful products. Collaborate on ambitious startups.
 
 ---
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28" align="center" /> Active Projects</h2>
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" align="center" /> Active Projects</h2>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.gif" width="22" align="center" /> Portfolio</h3>
+      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" width="24" align="center" /> Portfolio</h3>
       <p><em>Personal showcase - Next.js · Tailwind</em></p>
       <a href="https://portfolio-vietcq.vercel.app/">
-        <img src="https://img.shields.io/badge/Live-Visit-5bcdec?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" alt="live" />
+        <img src="https://img.shields.io/badge/View_Website-5bcdec?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f309/512.gif" width="22" align="center" /> ByteBridge</h3>
+      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" width="24" align="center" /> ByteBridge</h3>
       <p><em>Testing & QA platform for modern teams</em></p>
       <a href="https://testify.io.vn/">
-        <img src="https://img.shields.io/badge/Live-Visit-5bcdec?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" alt="live" />
+        <img src="https://img.shields.io/badge/View_Website-5bcdec?style=for-the-badge&logo=vercel&logoColor=white" alt="ByteBridge Live" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26bd/512.gif" width="24" align="center" /> Sportis</h3>
+      <p><em>Multi-service sports venue booking platform</em></p>
+      <a href="https://sportis-app.com">
+        <img src="https://img.shields.io/badge/View_Website-5bcdec?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sportis Live" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e0/512.gif" width="24" align="center" /> Howelx</h3>
+      <p><em>Verified housing & relocation support</em></p>
+      <a href="https://howelx.com">
+        <img src="https://img.shields.io/badge/View_Website-5bcdec?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Howelx Live" />
       </a>
     </td>
   </tr>
 </table>
-
 ---
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5d3_fe0f/512.gif" width="28" align="center" /> Roadmap</h2>
