@@ -67,7 +67,7 @@ mission:     Ship meaningful products. Collaborate on ambitious startups.
 </table>
 ---
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5d3_fe0f/512.gif" width="28" align="center" /> Roadmap</h2>
+<!-- <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5d3_fe0f/512.gif" width="28" align="center" /> Roadmap</h2>
 
 | Project | Description | Target | Status |
 |---|---|---|---|
@@ -77,7 +77,7 @@ mission:     Ship meaningful products. Collaborate on ambitious startups.
 
 > <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="18" align="center" /> **Open to collaboration** on ambitious startup projects in IT, commerce, and developer tooling.
 
----
+--- -->
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="28" align="center" /> Tech Stack</h2>
 
