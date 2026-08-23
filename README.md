@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=5BCDEC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Viet;Fullstack+Developer+from+Vietnam;Builder+%E2%80%A2+Entrepreneur+%E2%80%A2+Open+Source" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=5BCDEC&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Viet;Product+Leader+%26+Solutions+Architect;Building+enterprise+systems+%E2%80%A2+CRM+%E2%80%A2+ERP+%E2%80%A2+HR" alt="typing" />
 </div>
 
 <div align="center">
@@ -16,15 +16,15 @@
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ed/512.gif" width="28" align="center" /> About Me</h2>
 
-Passionate fullstack developer from Vietnam, building products at the intersection of **commerce**, **IT applications**, and **developer tooling**. Currently focused on shipping SaaS products end-to-end - from architecture to production.
+Product leader and solutions architect from Vietnam. I design and ship end-to-end business platforms that turn day-to-day operations into software — unifying **commerce**, **CRM/ERP**, **HR**, and **document management** into a single digital backbone. I work across the full arc: product vision and roadmap, system architecture, and production delivery.
 
 ```yaml
 name:        Cao Quoc Viet
-role:        Fullstack Developer
+role:        Product Leader & Business Solutions Architect
 location:    Vietnam
-focus:       SaaS · Commerce · Dev Tools
+focus:       Enterprise SaaS · Business Automation
 stack:       TypeScript · Python · C++ · ABAP
-mission:     Ship meaningful products. Collaborate on ambitious startups.
+mission:     Turn business operations into software. Build ventures that scale.
 ```
 
 ---
@@ -32,6 +32,15 @@ mission:     Ship meaningful products. Collaborate on ambitious startups.
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" align="center" /> Active Projects</h2>
 
 <table width="100%">
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.gif" width="24" align="center" /> Artemis Studio</h3>
+      <p><em>Fine-art print gallery &amp; commerce platform - Medusa v2 · Next.js · PostgreSQL</em></p>
+      <a href="https://artemis-gallery.com">
+        <img src="https://img.shields.io/badge/View_Website-5bcdec?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Artemis Studio Live" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" width="24" align="center" /> Portfolio</h3>
