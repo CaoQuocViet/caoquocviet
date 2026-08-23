@@ -16,7 +16,7 @@
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ed/512.gif" width="28" align="center" /> About Me</h2>
 
-Product leader and solutions architect from Vietnam. I design and ship end-to-end business platforms that turn day-to-day operations into software — unifying **commerce**, **CRM/ERP**, **HR**, and **document management** into a single digital backbone. I work across the full arc: product vision and roadmap, system architecture, and production delivery.
+Product leader and solutions architect from Vietnam. I design and ship end-to-end business platforms that turn day-to-day operations into software - unifying **commerce**, **CRM/ERP**, **HR**, and **document management** into a single digital backbone. I work across the full arc: product vision and roadmap, system architecture, and production delivery.
 
 ```yaml
 name:        Cao Quoc Viet
