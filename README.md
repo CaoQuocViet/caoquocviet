@@ -3,16 +3,28 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=5BCDEC&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Viet;Product+Leader+%26+Solutions+Architect;CRM+%E2%80%A2+ERP+%E2%80%A2+HR+%E2%80%A2+Business+Automation" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=5BCDEC&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Viet;Product+Leader+%26+Solutions+Architect" alt="typing" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/CaoQuocViet"><img src="https://komarev.com/ghpvc/?username=CaoQuocViet&style=for-the-badge&color=5bcdec&label=PROFILE+VIEWS" alt="profile views" /></a>
-  <a href="https://github.com/CaoQuocViet?tab=followers"><img src="https://img.shields.io/github/followers/CaoQuocViet?style=for-the-badge&color=5bcdec&labelColor=0d1117&label=FOLLOWERS" alt="followers" /></a>
-  <a href="mailto:vietcao10@gmail.com"><img src="https://img.shields.io/badge/CONTACT-vietcao10%40gmail.com-5bcdec?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://github.com/CaoQuocViet">
+    <img src="https://komarev.com/ghpvc/?username=CaoQuocViet&style=for-the-badge&color=5bcdec&label=PROFILE+VIEWS" alt="profile views" />
+  </a>
+  <a href="https://github.com/CaoQuocViet?tab=followers">
+    <img src="https://img.shields.io/github/followers/CaoQuocViet?style=for-the-badge&color=5bcdec&labelColor=0d1117&label=FOLLOWERS" alt="followers" />
+  </a>
+  <a href="mailto:vietcao10@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-vietcao10%40gmail.com-5bcdec?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" alt="email" />
+  </a>
 </div>
 
-<br/>
+<div align="center">
+  <br>
+  <strong style="font-size: 18px; color: #5BCDEC;">
+    CRM • ERP • HR • Business Automation
+  </strong>
+</div>
+
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ed/512.gif" width="28" align="center" /> About Me</h2>
 
