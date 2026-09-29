@@ -57,7 +57,7 @@ mission:     Turn business operations into software. Build ventures that scale.
     <td width="50%" valign="top">
       <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif" width="24" align="center" /> Portfolio</h3>
       <p><em>Personal showcase - Next.js · Tailwind</em></p>
-      <a href="https://portfolio-vietcq.vercel.app/">
+      <a href="https://vietcq.com">
         <img src="https://img.shields.io/badge/View_Website-5bcdec?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live" />
       </a>
     </td>
